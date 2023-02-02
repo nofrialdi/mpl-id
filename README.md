@@ -33,3 +33,5 @@ Link miro : <https://miro.com/app/board/uXjVPr3v34U=/>
 |          **tablet**          |       **laptop / PC**        |
 | :--------------------------: | :--------------------------: |
 | ![tablet](images/tablet.gif) | ![laptop](images/laptop.gif) |
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1OJpMSpF29G2ylZmbWBdfDBMhXWRY9zs8/view?usp=share_link)
